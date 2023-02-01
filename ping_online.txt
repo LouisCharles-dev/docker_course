@@ -1,0 +1,12 @@
+PING 10.93.182.8 (10.93.182.8) 56(84) bytes of data.
+64 octets de 10.93.182.8 : icmp_seq=1 ttl=128 temps=5.21 ms
+
+--- statistiques ping 10.93.182.8 ---
+1 paquets transmis, 1 reçus, 0 % paquets perdus, temps 0 ms
+rtt min/moy/max/mdev = 5,209/5,209/5,209/0,000 ms
+PING 10.93.182.91 (10.93.182.91) 56(84) bytes of data.
+64 octets de 10.93.182.91 : icmp_seq=1 ttl=64 temps=0.011 ms
+
+--- statistiques ping 10.93.182.91 ---
+1 paquets transmis, 1 reçus, 0 % paquets perdus, temps 0 ms
+rtt min/moy/max/mdev = 0,011/0,011/0,011/0,000 ms
